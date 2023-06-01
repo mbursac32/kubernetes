@@ -1,6 +1,6 @@
 # K3s
-Install k3s on a local machine: 
-'''bash  
+Install k3s on a local machine:   
+'''   
 curl -sfL https://get.k3s.io | sh -  
 '''  
 
