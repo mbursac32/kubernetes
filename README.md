@@ -1,7 +1,7 @@
 # K3s
 Install k3s on a local machine: 
-'''bash
-curl -sfL https://get.k3s.io | sh -
+'''bash  
+curl -sfL https://get.k3s.io | sh -  
 '''  
 
 To install additional agent nodes and add them to the cluster, run the installation script with the K3S_URL and K3S_TOKEN environment variables. Here is an example showing how to join an agent: 
